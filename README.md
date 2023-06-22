@@ -6,4 +6,4 @@ Needed Requirements for local running Dashboard (App.py):
 
 To run on cmd:
 - cd folder
-- command "pyhton -m streamlit run app.py"
+- command "python -m streamlit run app.py"
